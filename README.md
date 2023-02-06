@@ -1,4 +1,4 @@
-# Adventure-Game-
+# Adventure-Game
 
 We have 3 different regions in this adventure game. Every environment has its own barriers. These obstacles force the user to get the special stone of each region. That is, the player first overcomes the obstacles and then accesses the special element. After gaining access to the special element in each region, the game is complete.
 
