@@ -4,6 +4,8 @@ We have 3 different regions in this adventure game. Every environment has its ow
 
 In addition to these, we can play with 3 different heroes. And besides this hero we choose, we can buy equipment from the points we earn as we defeat the obstacles. We can overcome obstacles faster by getting stronger.
 
+There is also a section on how to play the game :)
+
 ## Getting Started
 
 Java and Java Form were used in this application.
